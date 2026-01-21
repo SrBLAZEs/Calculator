@@ -1,5 +1,5 @@
 # ============================
-# CALCULADORA AVANZADA (con historial)
+# CALCULADORA AVANZADA (con su  historial)
 # ============================
 
 # Historial global de operaciones
